@@ -10,7 +10,7 @@
 	"vars": {
 		"VALUE_FROM_CLOUDFLARE": "Hello from Hono/CF"
 	}, "routes":
-  { "pattern": "app.yourdomain.com", "custom_domain": "true" }
+  { "pattern": "app.nowyourtime.online", "custom_domain": "true" }
 ,
 	"observability": {
 		"enabled": true
