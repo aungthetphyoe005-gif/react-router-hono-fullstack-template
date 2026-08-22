@@ -9,7 +9,7 @@
 	"main": "./workers/app.ts",
 	"vars": {
 		"VALUE_FROM_CLOUDFLARE": "Hello from Hono/CF"
-	}, "routes" =
+	}, "routes":
   { "pattern" = "app.yourdomain.com", "custom_domain" = "true" }
 ,
 	"observability": {
